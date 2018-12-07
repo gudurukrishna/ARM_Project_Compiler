@@ -1,5 +1,5 @@
 # ARM_Project_Compiler
-# Team Richa Gupta(MT2017513),Tridib Sarma(MT2017525),Vamsi Krishna G(MT2017526)
+# Project Team members- Richa Gupta(MT2017513),Tridib Sarma(MT2017525),Vamsi Krishna G(MT2017526)
 
 # Problem Statement
 To write a C code which will convert the input expression to postfix notation, as well as creates an assembly code which is compatible with cortex M4
